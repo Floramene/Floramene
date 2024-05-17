@@ -40,7 +40,7 @@ Floramene = {
     "Names": ["Flora <3", "Floramene", "Flory"],
     "From": "United States",
     "Timezone": "EST / UTC-4"
-    "Age": 17,
+    "Age": 18,
     "Birthday": "May, 8th",
     "Job": None,
     "Learning": ["Programming", "Cybersecurity"],
