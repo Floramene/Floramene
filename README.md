@@ -6,7 +6,7 @@
   <table align="center">
     <tr>
       <td align="center">
-        <img src="https://spotify-github-profile.vercel.app/api/view?uid=31nxou7vtqxdpaqbmlt3ugjqypoa&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true">
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31nxou7vtqxdpaqbmlt3ugjqypoa&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true">
       </td>
     </tr>
   </table>
